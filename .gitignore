@@ -4,3 +4,6 @@ sagittal_average.egg-info/dependency_links.txt
 sagittal_average.egg-info/PKG-INFO
 sagittal_average.egg-info/top_level.txt
 sagittal_average.egg-info/SOURCES.txt
+tests/__pycache__/__init__.cpython-38.pyc
+tests/__pycache__/test_sagittal_brain.cpython-38-pytest-6.2.3.pyc
+__pycache__/__init__.cpython-38.pyc
