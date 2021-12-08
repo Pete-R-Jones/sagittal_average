@@ -7,3 +7,9 @@ sagittal_average.egg-info/SOURCES.txt
 tests/__pycache__/__init__.cpython-38.pyc
 tests/__pycache__/test_sagittal_brain.cpython-38-pytest-6.2.3.pyc
 __pycache__/__init__.cpython-38.pyc
+bad_commit.txt
+brain_average.csv
+brain_sample.csv
+sagittal_average.egg-info/entry_points.txt
+sagittal_average.egg-info/requires.txt
+__pycache__/command.cpython-38.pyc
